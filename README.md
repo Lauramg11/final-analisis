@@ -1,3 +1,3 @@
-#proyecto final analisis de datos 
-## programado por : Laura Mosquera Gómez 🌸
+# Proyecto final analisis de datos 
+## Programado por : Laura Mosquera Gómez 🌸
 ### Medellín -2025 
